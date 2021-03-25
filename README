@@ -1,0 +1,4 @@
+Project is based on Geekbrain's webinar: https://geekbrains.ru/events/277
+Several improvements were made:
+1) Balls don't overlap with each other and with walls
+2) Bad balls always appear
